@@ -1,0 +1,9 @@
+body {
+  max-width: 960px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#container {
+  display: grid;
+}
